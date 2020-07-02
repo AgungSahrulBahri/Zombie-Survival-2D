@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e11f225e018849749be250fa7456e51a
+timeCreated: 1456270237
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spriteLeft: {instanceID: 0}
+  - spriteRight: {instanceID: 0}
+  - spriteUp: {instanceID: 0}
+  - spriteDown: {instanceID: 0}
+  - bulletRight: {fileID: 429794, guid: 2e7faafbfd0ce7b429d07ab71ba55aef, type: 2}
+  - bulletLeft: {fileID: 429794, guid: 3aa0fdb60cf99534591927451bace346, type: 2}
+  - bulletUp: {fileID: 429794, guid: f91978db92bc2a9459c38ad2dc584ebd, type: 2}
+  - bulletDown: {fileID: 429794, guid: dfb394bbb45cf204698b15acaffd60bc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
